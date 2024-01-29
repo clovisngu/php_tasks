@@ -15,6 +15,8 @@
     echo 'Hello world! My name is "Clovis"';
 ?>
 
+<?php include"exer2/header.php"; ?>
+
 <h3>3.2 Create a PHP variable named $title and assign it the value "PHP is interesting." 
     Then, use this variable as the content within an (heading 4) element.</h3>
 <?php
@@ -63,6 +65,6 @@
 
 <img src="./php1.png" alt="web development environment"/>
 
-
+<?php include"exer2/footer.php"; ?>
 </body>
 </html>
