@@ -1,0 +1,38 @@
+/* Custom CSS for reducing form size */
+.custom-form {
+    max-width: 400px; /* Set max-width to control form width */
+    margin: auto; /* Center the form horizontally */
+  }
+  
+  /* Additional styles for form elements */
+  .custom-form .form-group {
+    margin-bottom: 15px; /* Add space between form groups */
+  }
+  
+  .custom-form label {
+    font-weight: normal; /* Make labels bold */
+  }
+  
+  .custom-form input[type="text"],
+  .custom-form input[type="email"],
+  .custom-form input[type="date"],
+  .custom-form input[type="color"] {
+    width: 40%; /* Make form input fields fill their container */
+  }
+  
+  .custom-form input[type="submit"] {
+    width: 40%; /* Make submit button fill its container */
+    margin-top: 25px; /* Add space above submit button */
+  }
+
+  h1 {
+    width: 100%; /* Make the h1 element extend to the full width */
+    text-align: left; /* Align the text to the left */
+    /* Or use text-align: right; for right alignment */
+    /* Or use text-align: justify; to adjust spacing to fill the line box */
+    /* Or use text-align: inherit; to inherit the property from the parent element */
+    margin: 0; /* Remove default margins */
+    padding: 20px 0; /* Add some padding top and bottom for spacing */
+  }
+  
+  

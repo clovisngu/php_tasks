@@ -11,7 +11,7 @@
 <h3>3.1 Write PHP code to output the following message: Hello world! My name is "David"
 </h3>
 <?php
-    // Use backslashes to escape double quotes or use single quotes
+    // Use backslashes to escape special characters like double quotes or use single quotes
     echo 'Hello world! My name is "Clovis"';
 ?>
 
