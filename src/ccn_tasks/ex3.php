@@ -77,13 +77,7 @@ function get_last_modification_time($filename) {
 
 </div>
 
-<div class="container">
-  <?php
-  // Get the last modification time of this file
-  $filename = __FILE__;
-  echo "<p>Last modification time of $filename: " . get_last_modification_time($filename) . "</p>";
-  ?>
-</div>
+
 
 <?php include "ex2/footer.php"; ?>
 
