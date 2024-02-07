@@ -25,10 +25,13 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="ex1.php">Exercise2</a>
+        <a class="nav-link" href="new.php">Exercise1</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="new.php">Exercise3</a>
+          <a class="nav-link" href="new.php">Exercise2</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Exercise3</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Exercise4</a>
@@ -49,6 +52,9 @@
   <div class="row" style="margin-top: 10px; margin-bottom: 10px; margin-right: 5px;">
     <div class="col-sm-3" style="background-color: rgba(228, 235, 194, 0.353);">
       <h3>List of Tasks</h3>
-      some thing here
+      <ul>
+        <li> <a href="../crud/index.php" style="color: greenyellow;">Create Data</a> </li>
+        <li> <a href="../crud/read.php"style="color: red;">Read Data</a> </li>
+      </ul>
     </div>
     <div class="col-sm-9">
