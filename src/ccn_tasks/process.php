@@ -1,10 +1,11 @@
 <?php
 $title = "Your information";
-include 'exer2/header.php';
-$nimi = $_POST["nimi"];
-$email = $_POST["email"];
+include 'ex2/header.php';
 
-echo "Hello " .  $nimi .  " <br> Your email id is: " . $email;
+//$nimi = $_POST["clovis"];
+//$email = $_POST["cheoclovis@gmail.com"];
 
-include 'exer2/footer.php';
+echo "Hello  <br> Your email id is: " ;
+
+include 'ex2/footer.php';
 ?>

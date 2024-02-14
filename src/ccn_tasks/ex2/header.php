@@ -18,26 +18,26 @@
     <div class="row">
   <nav class="navbar navbar-expand-lg" style="background-color: rgb(65, 7, 109);" >
   <div class="container-fluid">
-    <a class="nav-link" aria-current="page" href="ex1.php">Exercise1</a>
+    <a class="nav-link" aria-current="page" href="ex1.php"></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-        <a class="nav-link" href="new.php">Exercise1</a>
+        <a class="nav-link" href="../../ccn_tasks/ex1.php">Exercise1</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="new.php">Exercise2</a>
+          <a class="nav-link" href="../../C:\Users\cheoc\Documents\phptasks\src\ccn_tasks\ex2">Exercise2</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Exercise3</a>
+          <a class="nav-link" href="../../ccn_tasks/ex3.php">Exercise3</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Exercise4</a>
+          <a class="nav-link" href="../../ccn_tasks/ex4.php">Exercise4</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Exercise5</a>
+          <a class="nav-link" href="../../ccn_tasks/ex4.php">Exercise5</a>
         </li>
         
       </ul>
@@ -47,8 +47,8 @@
       </form>
     </div>
   </div>
-</nav>
-</div> 
+ </nav>
+ </div> 
   <div class="row" style="margin-top: 10px; margin-bottom: 10px; margin-right: 5px;">
     <div class="col-sm-3" style="background-color: rgba(228, 235, 194, 0.353);">
       <h3>List of Tasks</h3>
